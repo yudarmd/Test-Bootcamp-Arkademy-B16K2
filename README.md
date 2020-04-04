@@ -24,16 +24,16 @@ Saya menggunakan PHP untuk membuat CRUD dan code editor yang saya gunakan Visual
 
 HOME
 
-![GitHub Logo](6B/Home.png)
+![GitHub Logo](/6b/Home.png)
 
 ADD
 
-![GitHub Logo](6b/Add.png)
+![GitHub Logo](/6b/Add.png)
 
 EDIT
 
-![GitHub Logo](6b/Edit.png)
+![GitHub Logo](/6b/Edit.png)
 
 DELETE
 
-![GitHub Logo](6b/Delete.png)
+![GitHub Logo](/6b/Delete.png)
