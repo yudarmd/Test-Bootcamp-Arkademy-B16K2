@@ -1,6 +1,8 @@
 # Test Bootcamp Arkademy B16K2
 By Yuda Rohmadani
 
+Mohon maaf untuk foto nilai SKHUN/UN/raport terakhir SMK tidak di lampirkan karena belum dibagikan dari pihak sekolah. sebenarnya akan dibagikan berhubung adanya wabah covid19 jadi belum di bagikan. Mohon dimaklumi
+
 ## Soal Nomor 1
 
 Kegunaan JSON pada REST API adalah sebagai format untuk mengirim dan meminta data pada REST API. Keunggulan dari JSON sangat ringan dan lebih sederhana serta mudah dibaca.
