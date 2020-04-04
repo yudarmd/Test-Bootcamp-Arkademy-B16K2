@@ -22,7 +22,7 @@ Saya menggunakan Bootstrap untuk tampilannya
 
 ## Nomor 6c
 
-Saya menggunakan PHP untuk membuat CRUD dan code editor yang saya gunakan Visual Studio Code
+Saya menggunakan PHP untuk membuat CRUD dan code editor yang saya gunakan Visual Studio Code serta saya jalankan di xampp
 
 ## Screenshot nomor 6
 
